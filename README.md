@@ -40,9 +40,6 @@
 ---
 
 ##  Структура проєкту
-* `imdb_popular_titles.csv` — вихідні дані з Kaggle.
-* `analysis.ipynb` — Jupyter Notebook із повним кодом, графіками та моделями.
-* `README.md` — опис проєкту та результатів.
-* `imdb_popular_titles.csv` — вихідні дані з Kaggle.
+* `imdb_data_cleaned.csv` — вихідні дані з Kaggle.
 * `analysis.ipynb` — Jupyter Notebook із повним кодом, графіками та моделями.
 * `README.md` — опис проєкту та результатів.
